@@ -1,5 +1,8 @@
 # gor ett gissas ett tal spel snalla...
 print( "kåden är mycket fel och det är ett nytt tal varje gång som lycka tillll")
+Q =input("dit namn är ??--> ")
+print (f"hej {Q} och välkommen till spoelaet ")
+
 import random
 while True: 
     i=0
